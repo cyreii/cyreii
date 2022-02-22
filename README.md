@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cyreii
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning lua
+- 💞️ I’m looking to collaborate on fnf mods
+- 📫 How to reach me (my discord cyrei#9458)
